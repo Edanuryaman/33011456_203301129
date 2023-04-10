@@ -29,7 +29,7 @@ class _State extends State<BilHuawei> {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    geriBaslik(title: "Huawei Matebook D15", context: context),
+                    geriBaslik(title: "Huawei Matebook D14", context: context),
                     SizedBox(height: 16),
                     Padding(
                       padding: const EdgeInsets.symmetric(horizontal: 8.0),
